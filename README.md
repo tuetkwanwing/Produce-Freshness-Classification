@@ -4,7 +4,7 @@ The purpose of this project is to predict whether a fruit or vegetable is fresh 
 
 See [Produce Freshness Classification Project Proposal](https://github.com/tuetkwanwing/Produce-Freshness-Classification/blob/main/Produce%20Freshness%20Classification.pdf) for more information on the project's background, objective, data preparation and some sample pictures.
 
-This Jupyter Notebook[Produce_freshness_classification_Project_Tuet.ipynb](https://github.com/tuetkwanwing/Produce-Freshness-Classification/blob/main/Produce_freshness_classification_Project_Tuet.ipynb) concludes the session of me processing image data from Google Cloud Files, performing data cleansing and transformation, constructing a neural network with a pre-trained model base VGG16, as well as applying a [LIME Image Explainer](https://lime-ml.readthedocs.io/en/latest/lime.html) to explain the outputs/results of my neural network.
+This Jupyter Notebook [Produce_freshness_classification_Project_Tuet.ipynb](https://github.com/tuetkwanwing/Produce-Freshness-Classification/blob/main/Produce_freshness_classification_Project_Tuet.ipynb) concludes the session of me processing image data from Google Cloud Files, performing data cleansing and transformation, constructing a neural network with a pre-trained model base VGG16, as well as applying a [LIME Image Explainer](https://lime-ml.readthedocs.io/en/latest/lime.html) to explain the outputs/results of my neural network.
 
 
 
